@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AKB-1</string>
+    <string name="rizki_restu_illahi">Rizki Restu Illahi</string>
+    <string name="subang_27_april_2000">Subang, 27 April 2000</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="nim">NIM</string>
+    <string name="NIM">10118025</string>
+    <string name="kelas">Kelas</string>
+    <string name="if1">IF-1</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string name="laki">Laki - Laki</string>
+    <string name="ttl">Tempat, Tanggal Lahir</string>
+    <string name="alamat">Alamat Rumah</string>
+    <string name="goldar">Golongan Darah</string>
+    <string name="b">B</string>
+    <string name="makanan">Makanan Favorit</string>
+    <string name="minuman">Minuman Favorit</string>
+    <string name="hobi">Hobi</string>
+    <string name="lagu">Lagu Favoit</string>
+    <string name="film">Film Favorit</string>
+    <string name="pekerjaan">Pekerjaan Yang Diinginkan</string>
+    <string name="mobile_developer">Mobile Developer</string>
+    <string name="avengers_end_game">Avengers End Game</string>
+    <string name="ruang_rindu">Ruang Rindu</string>
+    <string name="bermain_games">Bermain Games</string>
+    <string name="es_teh_manis">Es Teh Manis</string>
+    <string name="chicken_teriyaki">Chicken Teriyaki</string>
+    <string name="isi_alamat">Blok Leharmanah Subang</string>
+</resources>
